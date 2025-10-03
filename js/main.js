@@ -4,7 +4,7 @@ let score = 0;
 
 // Mappa dei file
 const fileMap = {
-  data_all: "../resurces/data_all.json",
+  data_all: "https://mastyx.github.io/test_segretario/resurces/data_all.json",
   data_v1: "../resurces/data_v1.json",
   data_v2: "../resurces/data_v2.json",
   data_v3: "../resurces/data_v3.json",
