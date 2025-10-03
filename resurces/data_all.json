@@ -295,7 +295,7 @@
     "options": [
       "a. Non posso utilizzare i numeri romani",
       "b. Devo utilizzare tutti i caratteri speciali, incluso il simbolo del dollaro ($) e il punto interrogativo (?), nel nome della cartella",
-      "c. Posso utilizzarli tutti tranne i seguenti caratteri speciali: ˆ ~ " # % & * : < > ? / \\ { | }"
+      "c. Posso utilizzarli tutti tranne i seguenti caratteri speciali: ˆ ~ \" # % & * : < > ? / \\ { | }"
     ],
     "answer": "C"
   },

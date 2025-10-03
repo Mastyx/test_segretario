@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>📚 Test</h1>
+        <p>Scegli una versione e metti alla prova le tue conoscenze</p>
+      </div>
+
+      <div class="content">
+        <div id="setup" class="file-selector">
+          <label for="fileSelect">Seleziona il file del quiz:</label>
+          <select id="fileSelect">
+            <option value="">-- Scegli un file --</option>
+            <option value="data_all">Tutti i quiz (90 domande)</option>
+            <option value="data_v1">Quiz V1 (30 domande)</option>
+            <option value="data_v2">Quiz V2 (30 domande)</option>
+            <option value="data_v3">Quiz V3 (30 domande)</option>
+          </select>
+          <div style="margin-top: 20px">
+            <button class="btn btn-primary" onclick="startQuiz()">
+              Inizia Quiz
+            </button>
+          </div>
+        </div>
+
+        <div id="quizContainer" class="hidden">
+          <div class="quiz-info">
+            <div>
+              Domanda: <span id="currentQuestion">0</span>/<span
+                id="totalQuestions"
+                >0</span
+              >
+            </div>
+            <div>Punteggio: <span id="score">0</span></div>
+          </div>
+
+          <div class="question-card">
+            <div class="question-number" id="questionNumber"></div>
+            <div class="question-text" id="questionText"></div>
+            <div class="options" id="optionsContainer"></div>
+          </div>
+
+          <div class="buttons">
+            <button class="btn btn-secondary" onclick="prevQuestion()">
+              ← Precedente
+            </button>
+            <button
+              class="btn btn-primary"
+              id="nextBtn"
+              onclick="nextQuestion()"
+            >
+              Successiva →
+            </button>
+          </div>
+        </div>
+
+        <div id="resultsContainer" class="results hidden">
+          <h2>🎉 Quiz Completato!</h2>
+          <div class="score" id="finalScore"></div>
+          <div class="results-details">
+            <p>
+              <strong>Risposte corrette:</strong>
+              <span id="correctAnswers"></span>
+            </p>
+            <p>
+              <strong>Risposte sbagliate:</strong>
+              <span id="wrongAnswers"></span>
+            </p>
+            <p><strong>Percentuale:</strong> <span id="percentage"></span>%</p>
+          </div>
+          <button class="btn btn-primary" onclick="resetQuiz()">
+            Ricomincia
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+
+  <script src="js/main.js"></script>
+</html>
