@@ -1,4 +1,5 @@
 let questions = [];
+let sbagliate = [];
 let currentQuestionIndex = 0;
 let score = 0;
 
@@ -81,6 +82,13 @@ function checkAnswer(selected, correct, btn) {
         b.classList.add("correct");
       }
     });
+    // salva la domanda sbagliata
+    sbagliate.push({
+      question: questions[currentQuestionIndex].question,
+      correctAnswer: correct,
+      options: questions[currentQuestionIndex].options,
+      userAnswer: selected,
+    });
   }
 
   document.getElementById("nextBtn").disabled = false;
@@ -114,10 +122,30 @@ function showResults() {
     (score / questions.length) *
     100
   ).toFixed(2);
-}
+  // Elenco errori
+  const wrongList = document.getElementById("wrongList");
+  wrongList.innerHTML = ""; // pulizia prima di scrivere di nuovo
 
+  if (sbagliate.length > 0) {
+    let errorList = "<h3>❌ Domande sbagliate</h3><ul>";
+    sbagliate.forEach((q) => {
+      const correctText = q.options.find((opt) =>
+        opt.trim().toUpperCase().startsWith(q.correctAnswer),
+      );
+      errorList += `<li><strong>${q.question}</strong><br>
+                    Tua risposta: ${q.userAnswer}<br>
+                    Corretta: ${correctText}</li>`;
+    });
+    errorList += "</ul>";
+    wrongList.innerHTML = errorList;
+  } else {
+    wrongList.innerHTML = "<p>👏 Nessun errore, ottimo lavoro!</p>";
+  }
+}
 function resetQuiz() {
   document.getElementById("setup").classList.remove("hidden");
   document.getElementById("quizContainer").classList.add("hidden");
   document.getElementById("resultsContainer").classList.add("hidden");
+  sbagliate = [];
+  document.getElementById("wrongList").innerHTML = "";
 }
