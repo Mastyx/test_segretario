@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "question": "Cos'è la matrice di Eisenhower?",
+    "options": [
+      "a. La matrice di Eisenhower è uno strumento di organizzazione e decisione, noto anche come \"quadrante dell'urgenza/importanza\", utilizzato per classificare le attività in base al loro livello di importanza e urgenza",
+      "b. La matrice di Eisenhower è un rompicapo matematico complesso utilizzato nelle missioni spaziali per calcolare le traiettorie di viaggio",
+      "c. La matrice di Eisenhower è un artefatto archeologico antico che si ritiene fosse utilizzato per tracciare le fasi lunari"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Quale di questo è un modello organizzativo?",
+    "options": [
+      "a. Matriciale",
+      "b. Funzionario",
+      "c. Longitudinale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Qual è il documento che disciplina dettagliatamente una sequenza di attività all'interno dell'azienda?",
+    "options": [
+      "a. Delibera",
+      "b. Regolamento",
+      "c. Procedura"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Cosa si intende per \"etica aziendale\"?",
+    "options": [
+      "a. Codice di abbigliamento aziendale",
+      "b. Principi e i valori morali che guidano il comportamento aziendale",
+      "c. Norme fiscali aziendali"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Durante la procedura di pianificazione meeting e creazione evento come posso invitare gli altri partecipanti tramite Google Meet?",
+    "options": [
+      "a. Invio esclusivamente il link di accesso al meeting prima",
+      "b. Tramite il calendario di windows",
+      "c. Posso inviare un link di accesso se la riunione è pubblica altrimenti invito i partecipanti tramite indirizzo mail"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Qual è la normativa che regola la qualità dei processi aziendali?",
+    "options": [
+      "a. ISO 9001",
+      "b. GDPR",
+      "c. SOX (Sarbanes-Oxley Act)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Qual è il principale compito del Segretario Coordinatore Amministrativo?",
+    "options": [
+      "a. Supervisionare la produzione aziendale",
+      "b. Coordinare attività amministrative e facilitare la comunicazione",
+      "c. Definire le strategie commerciali dell'azienda"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "L'acronimo PEC sta per…",
+    "options": [
+      "a. …posta elettronica certificata",
+      "b. …parità economica certificata",
+      "c. …principio economico comunitario"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Devo modificare un file in formato docx, applicativo Microsoft Word mi fornisce un messaggio avvisandomi che il file è aperto in ''sola lettura'', cosa significa?",
+    "options": [
+      "a. Non posso salvare il file con un altro nome",
+      "b. Il file è danneggiato",
+      "c. Posso solo leggere il file senza compiere operazioni diverse (modifica, salvataggio, etc)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Quale di questi elementi rientra nella comunicazione non verbale?",
+    "options": [
+      "a. Tono",
+      "b. Significato letterale delle parole",
+      "c. Prossemica"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Che cos'è il Budget?",
+    "options": [
+      "a. Elenco dettagliato delle attività quotidiane dell'azienda",
+      "b. Piano finanziario che stima le entrate e le spese future",
+      "c. Registro delle transazioni finanziarie passate dell'azienda"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Quando si può fare affidamento diretto?",
+    "options": [
+      "a. Il nuovo Codice Appalti, efficace a partire dal 1° luglio 2023, consente l'affidamento diretto dei servizi di ingegneria, architettura e progettazione fino a 140 mila euro",
+      "b. Il nuovo Codice Appalti, efficace a partire dal 1° luglio 2023, consente l'affidamento diretto dei servizi di ingegneria, architettura e progettazione fino a 240 mila euro",
+      "c. Il nuovo Codice Appalti, efficace a partire dal 1° luglio 2023, consente l'affidamento diretto dei servizi di ingegneria, architettura e progettazione fino a 540 mila euro"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Cosa accade quando invio una mail di posta elettronica certificata verso un indirizzo non abilitato alla pec?",
+    "options": [
+      "a. Non riceverò le ricevute di Accettazione e di Consegna",
+      "b. Non posso inviare la mail perchè il server mi restituisce errore",
+      "c. Riceverò solo la ricevuta di Accettazione e non quella di Consegna"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "L'albo fornitori è…",
+    "options": [
+      "a. … un elenco di aziende creato e gestito da una Pubblica Amministrazione, a cui si possono iscrivere tutti coloro che sono interessati ad eseguire lavori, servizi o forniture in favore di quelle PA specifica",
+      "b. … un elenco di lavori svolti",
+      "c. … un luogo fisico nella sede della Provincia sempre aperto al pubblico in cui viene affisso ogni tipologia di atto"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "L'amministrazione mi richiede di preparare la documentazione per l'avvio di una gara, quale delle seguenti opzioni è corretta?",
+    "options": [
+      "a. L'amministrazione richiede la preparazione della documentazione per l'avvio di una gara; pertanto, devo presentare i documenti in formato cartaceo",
+      "b. È necessario redigere solo una breve e generica descrizione dell'oggetto della gara senza specificare i requisiti tecnici",
+      "c. Potrebbe essere necessario allegare al bando di gara documenti amministrativi, finanziari o legali per fornire ulteriori dettagli o informazioni complementari"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "Cosa è una gara d'appalto?",
+    "options": [
+      "a. Competizione tra diversi artisti per ottenere l'opportunità di realizzare un murale o una scultura pubblica in una comunità",
+      "b. Procedimento competitivo attraverso il quale un'organizzazione, solitamente un ente pubblico o un'azienda, seleziona un fornitore per l'acquisizione di bene, servizi o lavori",
+      "c. Strumento con cui la pubblica amministrazione manifesta il proprio bisogno di acquisire solo lavori pubblici"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Quali sono i principi secondo cui si svolge l'affidamento e l'esecuzione di appalti di opere, lavori, servizi, forniture e concessioni?",
+    "options": [
+      "a. Economicità, efficacia, tempestività e correttezza",
+      "b. Solo economicità e tempestività",
+      "c. Solo correttezza e efficacia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Che cos'è un affidamento diretto?",
+    "options": [
+      "a. Normativa che consente all'azienda di vendere il proprio prodotto in maniera indiscriminata",
+      "b. Normativa che non consente all'amministrazione pubblica di assegnare direttamente un appalto senza dover effettuare una gara",
+      "c. Procedura che consente all'amministrazione pubblica di assegnare direttamente un appalto senza dover effettuare una gara"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "In base al principio di \"equa retribuzione\", cosa integra il trattamento economico dei CCNL?",
+    "options": [
+      "a. Massimizzazione dei profitti aziendali",
+      "b. Proporzionamento tra retribuzione e benefit",
+      "c. Garanzia di salario minimo"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Quando è ammessa la modifica unilaterale delle mansioni da parte del datore di lavoro secondo l'articolo 2103 c.c.?",
+    "options": [
+      "a. In presenza di ragioni giustificative, come la modifica degli assetti organizzativi aziendali",
+      "b. In qualsiasi momento senza necessità di ragioni giustificative",
+      "c. Solo in caso di gravi crisi aziendali"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Devo predisporre un grafico partendo da alcuni dati in formato tabellare, quale strumento software potrei utilizzare per ottenere un risultato professionale?",
+    "options": [
+      "a. Microsoft Excel",
+      "b. GIMP",
+      "c. Microsoft Word"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Cos'è un gruppo?",
+    "options": [
+      "a. Un gruppo è un insieme di individui che interagiscono tra loro, condividendo interessi, scopi o obbiettivi comuni e cooperando per raggiungere determinati risultati",
+      "b. Un gruppo è un insieme di individui che interagiscono tra loro, senza dover necessariamente condividere interessi, scopi o obbiettivi comuni ma cooperando per raggiungere determinati risultati",
+      "c. Un gruppo è un insieme di individui che interagiscono tra loro, condividendo interessi, scopi o obbiettivi comuni potendo raggiungere in autonomia determinati risultati"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "La Comunità Europea perchè ha emanato la IV Direttiva?",
+    "options": [
+      "a. Armonizzare e rendere confrontabili i bilanci di tutte le società",
+      "b. Disciplinare le modalità di presentazione dei bilanci",
+      "c. Stabilire l'obbligo di redazione del rendiconto finanziario"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Quali sono i modelli di contabilità?",
+    "options": [
+      "a. Contabilità generale e contabilità analitica",
+      "b. Contabilità aziendale e contabilità extraziendale",
+      "c. Contabilità gestionale e contabilità dirigenziale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Il possesso di buona fede è?",
+    "options": [
+      "a. Il possesso di chi possiede ignorando di ledere l'altrui diritto",
+      "b. Il possesso spettante alle comunità religiose sui beni ecclesiastici",
+      "c. Il possesso della fede di deposito"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "Quale termine indica il processo attraverso il quale viene inviata una fattura elettronica al Sistema di Interscambio (SDI)?",
+    "options": [
+      "a. Identificativo",
+      "b. Protocollo",
+      "c. Fattura"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Cosa si intende con l'acronimo SDI?",
+    "options": [
+      "a. Soluzione di interessi",
+      "b. Sistema di interscambio",
+      "c. Scambio di informazioni"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Il contratto preliminare?",
+    "options": [
+      "a. Deve essere stipulato nella stessa forma prevista per il contratto definitivo",
+      "b. Deve essere stipulato in qualsiasi forma",
+      "c. Deve essere sempre stipulato in forma scritta a pena di nullità"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Cosa indica l'acronimo IRES?",
+    "options": [
+      "a. Imposta sui redditi delle società",
+      "b. Imposta regionale sulle attività produttive",
+      "c. Imposta reale dell'esercizio straordinario"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Devi organizzare una cartella di lavoro dove confluiranno i tuoi dati, quali caratteri non potrai usare per nominare la cartella?",
+    "options": [
+      "a. Non posso utilizzare i numeri romani",
+      "b. Devo utilizzare tutti i caratteri speciali, incluso il simbolo del dollaro ($) e il punto interrogativo (?), nel nome della cartella",
+      "c. Posso utilizzarli tutti tranne i seguenti caratteri speciali: ˆ ~ " # % & * : < > ? / \\ { | }"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "question": "Cosa si intende per relatività del tempo?",
+    "options": [
+      "a. La relatività del tempo è un concetto della fisica, teorizzato da Albert Einstein, che spiega come non esista un unico tempo assoluto, ma ogni singolo individuo ha una propria misura personale del tempo, che dipende da dove si trova e da come si sta muovendo. Ciò significa che esiste soltanto un tempo relativo rispetto ad un osservatore",
+      "b. La relatività del tempo è un concetto dell'astrofisica che si riferisce alla percezione oggettiva del tempo. Ciò significa che, secondo Einstein, il tempo scorre uguale per tutti senza alcun elemento di soggettività",
+      "c. La relatività del tempo è un concetto legato alla scienza che afferma che il tempo influisce sul destino individuale delle persone"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 32,
+    "question": "Su quale modello organizzativo si basano i processi aziendali secondo la normativa Uni en Iso?",
+    "options": [
+      "a. Spirale",
+      "b. Cascata",
+      "c. PDCA (Plan-Do-Check-Act)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "Che cosa indica la sigla ODS?",
+    "options": [
+      "a. Un modello di documento per la compilazione di Ordini di Servizio",
+      "b. Un software per la compilazione di documenti",
+      "c. Un software per la protezione dei documenti"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "question": "Cosa sono le linee etiche aziendali?",
+    "options": [
+      "a. Un tipo di grafico che mostra le tendenze di vendita dell'azienda",
+      "b. Principi e valori che guidano il comportamento etico dei membri dell'azienda",
+      "c. Un tipo di comunicazione interna aziendale tramite linee telefoniche"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "question": "Che cos'è la tecnica di scheduling \"Time Blocking\"?",
+    "options": [
+      "a. Un metodo di suddivisione del tempo in blocchi dedicati a specifiche attività",
+      "b. Una tecnica di ordinamento cronologico delle attività",
+      "c. Un sistema periodizzante basato sul valore delle attività"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 36,
+    "question": "I processi aziendali possono riguardare una vasta gamma di attività, tra cui…",
+    "options": [
+      "a. Collaborazione tra dipendenti appartenenti alla stessa funzione",
+      "b. Distribuzione delle risorse in modo casuale",
+      "c. Pianificazione della produzione, acquisto di materiali e gestione dell'inventario, produzione effettiva dei bene e qualità del controllo"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "question": "Cosa rappresenta un report/verbale in ambito aziendale?",
+    "options": [
+      "a. Prova scritta che riporta le informazioni chiave di una riunione o discussione",
+      "b. Illustrazione visiva di dati aziendali attraverso grafici, tabelle o diagrammi al fine di fornire una rappresentazione chiara",
+      "c. Una registrazione audio di una comunicazione aziendale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "question": "In che modo la verbalizzazione può contribuire al processo di risoluzione dei problemi?",
+    "options": [
+      "a. Rallentando il processo decisionale",
+      "b. Parlando del problema con colleghi e/o esperti del settore, si possono ricevere nuove idee e suggerimenti per trovare soluzioni",
+      "c. Evitando completamente la comunicazione verbale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "Il segretario coordinatore amministrativo può contribuire a risolvere le criticità aziendali tramite:",
+    "options": [
+      "a. Lamentele ai colleghi",
+      "b. Monitoraggio delle comunicazioni e segnalazione di problemi",
+      "c. Licenziamento del personale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "question": "Cosa sono gli applicativi gestionali?",
+    "options": [
+      "a. Piattaforme progettate per integrare e gestire le principali funzioni aziendali in un'unica soluzione",
+      "b. Sistemi informatici che gestiscono solo la parte grafica di un'azienda",
+      "c. Applicazioni dedicate esclusivamente alla gestione delle risorse umane"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "Che cos'è il Budget previsionale?",
+    "options": [
+      "a. Il Budget previsionale è uno strumento di pianificazione finanziaria che prevede e pianifica le entrate e le uscite future di un'azienda per un determinato periodo di tempo",
+      "b. Il Budget previsionale è uno strumento di rendicontazione finanziaria che misura e quantifica le entrate e le uscite di un'azienda per un determinato periodo di tempo",
+      "c. Il Budget previsionale è uno strumento di monitoraggio finanziario che valuta e organizza le entrate e le uscite di un'azienda per un determinato periodo di tempo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "question": "Quale delle seguenti affermazioni è corretta?",
+    "options": [
+      "a. L'affidamento diretto è possibile solo se l'importo dei lavori affidati è inferiore a 250.000 euro. In questo caso la stazione appaltante ha la possibilità di affidare direttamente i lavori, senza la necessità di consultare più operatori economici",
+      "b. Per affidare dei lavori è necessario rispettare i seguenti requisiti: importo dei lavori affidati inferiore a 150.000 euro. In questo caso la stazione appaltante ha la possibilità di affidare direttamente i lavori, senza la necessità di consultare più operatori economici",
+      "c. L'affidamento diretto dei lavori è necessario rispettare i seguenti requisiti: importo dei lavori affidati inferiore a 500.000 euro. In questo caso la stazione appaltante ha la possibilità di affidare direttamente i lavori, senza la necessità di consultare più operatori economici"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "La Richiesta di Offerta (RdO) su MEPA?",
+    "options": [
+      "a. È solo aperta",
+      "b. È solo ad invito",
+      "c. Può essere sia aperta che ad invito"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 44,
+    "question": "La piattaforma aziendale richiede accesso tramite OTP al fine di accedere all'albo dei fornitori della banca dati, cosa si intende con questo termine?",
+    "options": [
+      "a. Impronta digitale",
+      "b. Password monouso variabile",
+      "c. Codice monouso non variabile"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "question": "L'amministrazione mi richiede di preparare la documentazione per l'avvio di una gara, quale software potrei utilizzare nella procedura di sviluppo di una presentazione?",
+    "options": [
+      "a. Winzip",
+      "b. PowerPoint",
+      "c. Excel"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "question": "L'albo pretorio…",
+    "options": [
+      "a. …non esiste più",
+      "b. …è un elenco di lavori svolti",
+      "c. …per decenni, è stato, un luogo fisico nella sede della Provincia sempre aperto al pubblico in cui veniva affisso ogni atto, documento o avviso che deve essere reso pubblico, cioè, diffuso, portato a conoscenza di tutti i cittadini. Adesso è presente sui siti di ciascuna amministrazione"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "question": "Quali sono i criteri di aggiudicazione che la Pubblica Amministrazione può utilizzare per individuare l'offerta aggiudicataria?",
+    "options": [
+      "a. Non ci sono criteri di aggiudicazione",
+      "b. Sempre e solo il criterio di qualità",
+      "c. Prezzo più basso ovvero il criterio della offerta economicamente più vantaggiosa"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "question": "Quale ente si occupa di determinare le linee guida per le procedure negoziate?",
+    "options": [
+      "a. Anac",
+      "b. Consip",
+      "c. Mepa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "Quale software è spesso usato per la preparazione del budget?",
+    "options": [
+      "a. Photoshop",
+      "b. Excel",
+      "c. Word"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 50,
+    "question": "Cosa rappresenta l'UniEmens?",
+    "options": [
+      "a. Rivista mensile sull'INPS",
+      "b. Piattaforma online che fornisce servizi per la gestione delle comunicazioni obbligatorie tra i datori di lavoro e gli enti previdenziali e fiscali in Italia",
+      "c. Denuncia obbligatoria inviata dai lavoratori"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "question": "Quale aspetto devo controllare per garantire la disponibilità e la consistenza dei dati?",
+    "options": [
+      "a. Effettuare copie di sicurezza dei dati secondo la strategia di backup pianificata",
+      "b. Effettuare copie di sicurezza dei dati quando possibile",
+      "c. Effettuare copie di sicurezza dei dati ad ogni modifica"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "question": "Quali sono le due dimensioni del gruppo?",
+    "options": [
+      "a. Orizzontale e Verticale",
+      "b. Interna ed Esterna",
+      "c. Processo e Contenuto"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "question": "Il report gestionale è utile principalmente per:",
+    "options": [
+      "a. Definire l'identità aziendale",
+      "b. Controllare la produttività e i risultati rispetto agli obiettivi",
+      "c. Semplificare la gestione delle ferie"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "question": "Qual è il metodo per la tenuta della contabilità generale?",
+    "options": [
+      "a. Costi e ricavi",
+      "b. Partita doppia",
+      "c. Entrate ed uscite"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "question": "Il diritto di proprietà assicura al titolare:",
+    "options": [
+      "a. Controllo non soggetto, in alcun modo, a limitazioni",
+      "b. Soltanto il potere di godere le cose",
+      "c. Potere di godere e di disporre delle cose in modo pieno ed esclusivo entro i limiti e con l'osservanza degli obblighi stabiliti dall'ordinamento giuridico"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "question": "Qual è la formula per calcolare il \"patrimonio netto\" in un bilancio consolidato?",
+    "options": [
+      "a. Si ottiene dalla differenza tra attività e passività",
+      "b. Si ottiene dalla somma tra attività e passività",
+      "c. Si ottiene dalla divisione tra entrate e uscite"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 57,
+    "question": "Quale principio contabile è alla base delle scritture di assestamento?",
+    "options": [
+      "a. Solo il principio di completezza può essere considerato alla base delle scritture di assestamento",
+      "b. Principio di competenza economica e principio di prudenza",
+      "c. Non esistono dei principi ma solo linee guida che permettono di mantenere integrità e affidabilità delle informazioni contabili"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "question": "Dove si movimentano i ricavi?",
+    "options": [
+      "a. In «avere»",
+      "b. In «dare»",
+      "c. Sia in «dare» che in «avere»"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "question": "Cosa si intende per mercato elettronico nel contesto della conformità alle normative sulla fatturazione elettronica?",
+    "options": [
+      "a. Si tratta di un mercato interamente virtuale in cui le Amministrazioni abilitate e le imprese fornitrici di beni e servizi si incontrano, negoziano e perfezionano on line contratti di acquisto legalmente validi, mediante la firma digitale",
+      "b. Si tratta di un mercato interamente virtuale in cui le Amministrazioni abilitate e le imprese fornitrici di beni e servizi si incontrano, negoziano e perfezionano on line contratti di acquisto legalmente validi, senza la firma digitale",
+      "c. Si tratta di un mercato bene elettronici"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 60,
+    "question": "Evitare file con stessi nomi…",
+    "options": [
+      "a. …aumenta la possibilità di fare più copie dello stesso file",
+      "b. …non permette di organizzare il risparmio dello spazio di archiviazione",
+      "c. …permette di organizzare e gestire i documenti in modo più efficiente"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "question": "Cos'è il Time Management?",
+    "options": [
+      "a. Attività con cui un individuo o un'organizzazione amministrano e coordinano l'operato di un gruppo di individui, allo scopo di svolgere determinati compiti e raggiungere degli obbiettivi prefissati.",
+      "b. Segnale di sincronizzazione delle attività lavorative.",
+      "c. Processo di pianificazione e controllo del tempo che permette di ottimizzare la produttività, l'efficienza e l'efficacia dei processi operativi tramite l'utilizzo di tecniche, strumenti e metodi di gestione del tempo"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 62,
+    "question": "Cosa si intende per Mansionario?",
+    "options": [
+      "a. Un elenco formale che descrive in modo dettagliato le varie mansioni, i compiti, le responsabilità e le competenze richieste per ciascuna posizione o ruolo",
+      "b. Un insieme di regole che stabiliscono in modo generico le varie mansioni, i compensi, le disponibilità e le competenze richieste per ciascuna posizione o ruolo",
+      "c. Un insieme di principi informali che descrivono in modo dettagliato le varie mansioni, i compiti, le responsabilità e le competenze richieste per ciascuna posizione o ruolo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "question": "Quale aspetto devo controllare per garantire la disponibilità e la consistenza dei dati?",
+    "options": [
+      "a. Effettuare copie di sicurezza dei dati secondo la strategia di backup pianificata",
+      "b. Effettuare copie di sicurezza dei dati solo se è possibile",
+      "c. Effettuare copie di sicurezza dei dati ogni 15 minuti"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "question": "La piattaforma aziendale richiede accesso tramite OTP, cosa si intende con questo termine?",
+    "options": [
+      "a. Username e Password",
+      "b. Scansione del volto",
+      "c. Password monouso variabile"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 65,
+    "question": "Quale tra queste è la definizione corretta di vision?",
+    "options": [
+      "a. È lo scopo di un'organizzazione, la giustificazione stessa della sua esistenza e, al tempo stesso, ciò che la dovrebbe contraddistinguere da tutte le altre. Risponde alla domanda CHI SIAMO?",
+      "b. Proietta lo scenario immaginato dalla leadership nel futuro. Risponde alla domanda COSA FAREMO?",
+      "c. È l'insieme degli ideali in cui si crede e le fondamenta su cui si basa l'esistenza stessa dell'organizzazione. Risponde alla domanda PERCHÉ LO FACCIAMO COSÌ?"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "question": "Cosa si intende per saper essere?",
+    "options": [
+      "a. È l'insieme dei comportamenti interpersonali",
+      "b. È l'insieme delle conoscenze riguardanti fatti specifici, procedure, concetti e procedure generali",
+      "c. È l'insieme delle capacità operative, manuali e intellettuali di un individuo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 67,
+    "question": "Per un'organizzazione, l'adozione di un sistema di gestione per la qualità…",
+    "options": [
+      "a. È una decisione che può aiutare a migliorare la sua prestazione complessiva e costruire una solida base per esperienze di sviluppo sostenibile",
+      "b. È una decisione che non aiuta a migliorare la sua prestazione complessiva e costruire una solida base per esperienze di sviluppo sostenibile",
+      "c. È una decisione che può aiutare a modificare la sua prestazione complessiva e costruire una base per esperienze di sviluppo insostenibile"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "question": "Quale formato di file è comunemente associato a documenti non editabili?",
+    "options": [
+      "a. DOCX",
+      "b. TXT",
+      "c. PDF"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 69,
+    "question": "Quali sono i tre livelli della comunicazione?",
+    "options": [
+      "a. Verbale, Non verbale e Paraverbale",
+      "b. Conscio, inconscio, preconscio",
+      "c. Spaziale, prossemico, relativo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "question": "Cos'è la firma digitale?",
+    "options": [
+      "a. La firma elettronica qualificata (FEQ) - o digitale - è il risultato di una procedura informatica, detta validazione, che garantisce l'autenticità, l'integrità e il non ripudio dei documenti informatici",
+      "b. È una modalità di firma che si realizza attraverso il pacchetto office",
+      "c. Non garantisce l'autenticità e l'integrità"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "question": "L'amministrazione mi richiede di preparare la documentazione per l'avvio di una gara, quale software potrei utilizzare nella procedura di creazione di un archivio?",
+    "options": [
+      "a. Winzip",
+      "b. Microsoft Excel",
+      "c. Microsoft PowerPoint"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "question": "Qual è la differenza tra procedure aperte e procedure ristrette?",
+    "options": [
+      "a. Nelle procedure aperte tutti gli operatori economici possono partecipare alla gara, mentre in quelle ristrette la procedura di aggiudicazione si svolge tra operatori economici che sono già stati selezionati e invitati dall'Amministrazione aggiudicatrice",
+      "b. Non c'è nessuna differenza",
+      "c. Nelle procedure aperte solo alcuni operatori economici possono partecipare alla gara, mentre in quelle ristrette la procedura di aggiudicazione si svolge tra tutti gli operatori"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "question": "Qual è la differenza tra l'attivo e il passivo di un'azienda?",
+    "options": [
+      "a. Ricavo",
+      "b. Patrimonio netto",
+      "c. Spesa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "question": "Quale tra le seguenti è una procedura in cui le stazioni appaltanti consultano gli operatori economici da loro scelti e negoziano con uno o più di essi le condizioni dell'appalto?",
+    "options": [
+      "a. Procedure negoziate",
+      "b. Procedure aperte",
+      "c. Procedure chiuse"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "question": "Cosa si intende con l'acronimo \"ANAC\"?",
+    "options": [
+      "a. Con l'acronimo \"ANAC\", si intende un ente che si occupa di analizzare le tendenze del mercato azionario",
+      "b. Per ANAC, si intende un'agenzia pubblica italiana responsabile della prevenzione e della lotta alla corruzione nel settore pubblico",
+      "c. L'Autorità Regionale per la Garanzia e la promozione della Partecipazione elettorale in Italia"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "question": "Chi attiva il soccorso istruttorio?",
+    "options": [
+      "a. La stazione appaltante",
+      "b. La ditta appaltata",
+      "c. L'ANAC"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 77,
+    "question": "Nelle procedure aperte…",
+    "options": [
+      "a. …non tutti gli operatori possono presentare un'offerta in risposta a un avviso di indizione di gara",
+      "b. ...solo alcuni operatori possono presentare un'offerta in risposta a un avviso di indizione di gara",
+      "c. …può presentare un'offerta in risposta a un avviso di indizione di gara qualsiasi operatore economico interessato"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 78,
+    "question": "Quando è obbligatorio utilizzare il MePA?",
+    "options": [
+      "a. È obbligatorio il ricorso al MEPA (o ad altri mercati elettronici) nel caso di affidamenti di importo pari o superiore a € 5.000",
+      "b. È obbligatorio il ricorso al MEPA (o ad altri mercati elettronici) nel caso di affidamenti di importo pari o superiore a € 50.000",
+      "c. È obbligatorio il ricorso al MEPA (o ad altri mercati elettronici) nel caso di affidamenti di importo pari o superiore a € 15.000"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 79,
+    "question": "Quale tra i seguenti è un obiettivo del budgeting?",
+    "options": [
+      "a. Aumentare il debito aziendale",
+      "b. Prevedere e controllare le risorse aziendali",
+      "c. Gestire solo la contabilità fiscale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "question": "Il segretario coordinatore amministrativo supporta il budgeting:",
+    "options": [
+      "a. Gestendo gli investimenti",
+      "b. Coordinando le previsioni dai reparti e l'archiviazione documentale",
+      "c. Stilando il bilancio finale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "question": "Come posso realizzare un report grafico partendo da una tabella in Microsoft Excel?",
+    "options": [
+      "a. Con la funzionalità \"inserisci grafico\" di Microsoft Excel",
+      "b. Con la funzionalità \"inserisci funzione\" di Microsoft Excel",
+      "c. Con la funzionalità \"recupera dati\" di Microsoft Excel"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 82,
+    "question": "Qual è la logica vincente nella gestione di un gruppo?",
+    "options": [
+      "a. Apatia, promuove l'inerzia e la mancanza di coinvolgimento da parte dei membri del gruppo",
+      "b. Partecipazione, coinvolge e motiva i membri del team, favorisce la comunicazione e stimola la collaborazione",
+      "c. Meticolosità, concentrarsi esclusivamente sull'ottenimento di risultati perfetti, ignorando il processo di collaborazione e apprendimento del gruppo"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 83,
+    "question": "Qual è la differenza tra \"capacità di agire\" e \"capacità di intendere e di volere\" in diritto civile?",
+    "options": [
+      "a. La capacità di agire riguarda la possibilità di compiere atti giuridici, mentre la capacità di intendere e di volere si riferisce alla capacità mentale di comprendere e volere gli atti",
+      "b. Sono concetti equivalenti",
+      "c. La capacità di intendere e di volere riguarda la possibilità di compiere atti giuridici, mentre la capacità di agire si riferisce alla capacità fisica di agire"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "question": "Il metodo della partita doppia cosa prevede?",
+    "options": [
+      "a. Non prevede la registrazione degli eventi aziendali nei conti uni fase",
+      "b. Solo la registrazione degli eventi aziendali in report a due pagine",
+      "c. Prevede la registrazione degli eventi aziendali in due sezioni (dare ed avere)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 85,
+    "question": "Cos'è un report aziendale?",
+    "options": [
+      "a. Un documento contabile da allegare al bilancio",
+      "b. Un documento giuridico per scopi fiscali",
+      "c. Un documento che presenta dati, analisi e informazioni a supporto delle decisioni aziendali"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "question": "Il regime forfettario da chi può essere adottato?",
+    "options": [
+      "a. Tutti",
+      "b. Persone fisiche",
+      "c. Società di capitali"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "question": "In quali delle seguenti circostanze indicate si può fare affidamento diretto?",
+    "options": [
+      "a. Essendo una pratica importante, è necessario utilizzare sempre l'affidamento diretto in azienda",
+      "b. Dopo un'adeguata valutazione delle spese generali, se è necessario tenere traccia delle movimentazioni di conto corrente",
+      "c. Per piccoli importi o per servizi altamente specializzati può essere considerato appropriato fare affidamento diretto"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 88,
+    "question": "Qual è il termine per il deposito del bilancio?",
+    "options": [
+      "a. Entro 30 giorni dall'approvazione",
+      "b. Entro il 31/12 di ogni anno",
+      "c. Entro 120 giorni dalla chiusura dell'esercizio sociale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 89,
+    "question": "L'indice di liquidità, anche definito ''Quick ratio'' cosa confronta?",
+    "options": [
+      "a. Liquidità immediate, liquidità differite e debiti a breve termine",
+      "b. Immobilizzazioni e debiti a lungo termine",
+      "c. Ricavi delle vendite e patrimonio netto aziendale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 90,
+    "question": "Qual è uno degli elementi principali considerati nella prossemica?",
+    "options": [
+      "a. Individuo",
+      "b. Colore",
+      "c. Posizione"
+    ],
+    "answer": "C"
+  }
+]

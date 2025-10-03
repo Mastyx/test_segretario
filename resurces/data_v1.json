@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Cos’è la matrice di Eisenhower?",
+    "options": [
+      "a. La matrice di Eisenhower è uno strumento di organizzazione e decisione, noto anche come \"quadrante dell’urgenza/importanza\", utilizzato per classificare le attività in base al loro livello di importanza e urgenza",
+      "b. La matrice di Eisenhower è un rompicapo matematico complesso utilizzato nelle missioni spaziali per calcolare le traiettorie di viaggio",
+      "c. La matrice di Eisenhower è un artefatto archeologico antico che si ritiene fosse utilizzato per tracciare le fasi lunari"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Quale di questo è un modello organizzativo?",
+    "options": [
+      "a. Matriciale",
+      "b. Funzionario",
+      "c. Longitudinale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Qual è il documento che disciplina dettagliatamente una sequenza di attività all’interno dell’azienda?",
+    "options": [
+      "a. Delibera",
+      "b. Regolamento",
+      "c. Procedura"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Cosa si intende per \"etica aziendale\"?",
+    "options": [
+      "a. Codice di abbigliamento aziendale",
+      "b. Principi e i valori morali che guidano il comportamento aziendale",
+      "c. Norme fiscali aziendali"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Durante la procedura di pianificazione meeting e creazione evento come posso invitare gli altri partecipanti tramite Google Meet?",
+    "options": [
+      "a. Invio esclusivamente il link di accesso al meeting prima",
+      "b. Tramite il calendario di windows",
+      "c. Posso inviare un link di accesso se la riunione è pubblica altrimenti invito i partecipanti tramite indirizzo mail"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Qual è la normativa che regola la qualità dei processi aziendali?",
+    "options": [
+      "a. ISO 9001",
+      "b. GDPR",
+      "c. SOX (Sarbanes-Oxley Act)"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Qual è il principale compito del Segretario Coordinatore Amministrativo?",
+    "options": [
+      "a. Supervisionare la produzione aziendale",
+      "b. Coordinare attività amministrative e facilitare la comunicazione",
+      "c. Definire le strategie commerciali dell’azienda"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "L’acronimo PEC sta per…",
+    "options": [
+      "a. …posta elettronica certificata",
+      "b. …parità economica certificata",
+      "c. …principio economico comunitario"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Devo modificare un file in formato docx, applicativo Microsoft Word mi fornisce un messaggio avvisandomi che il file è aperto in ‘‘sola lettura’’, cosa significa?",
+    "options": [
+      "a. Non posso salvare il file con un altro nome",
+      "b. Il file è danneggiato",
+      "c. Posso solo leggere il file senza compiere operazioni diverse (modifica, salvataggio, etc)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Quale di questi elementi rientra nella comunicazione non verbale?",
+    "options": [
+      "a. Tono",
+      "b. Significato letterale delle parole",
+      "c. Prossemica"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Che cos’è il Budget?",
+    "options": [
+      "a. Elenco dettagliato delle attività quotidiane dell’azienda",
+      "b. Piano finanziario che stima le entrate e le spese future",
+      "c. Registro delle transazioni finanziarie passate dell’azienda"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Quando si può fare affidamento diretto?",
+    "options": [
+      "a. Il nuovo Codice Appalti, efficace a partire dal 1° luglio 2023, consente l’affidamento diretto dei servizi di ingegneria, architettura e progettazione fino a 140 mila euro",
+      "b. Il nuovo Codice Appalti, efficace a partire dal 1° luglio 2023, consente l’affidamento diretto dei servizi di ingegneria, architettura e progettazione fino a 240 mila euro",
+      "c. Il nuovo Codice Appalti, efficace a partire dal 1° luglio 2023, consente l’affidamento diretto dei servizi di ingegneria, architettura e progettazione fino a 540 mila euro"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Cosa accade quando invio una mail di posta elettronica certificata verso un indirizzo non abilitato alla pec?",
+    "options": [
+      "a. Non riceverò le ricevute di Accettazione e di Consegna",
+      "b. Non posso inviare la mail perché il server mi restituisce errore",
+      "c. Riceverò solo la ricevuta di Accettazione e non quella di Consegna"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "L’albo fornitori è…",
+    "options": [
+      "a. … un elenco di aziende creato e gestito da una Pubblica Amministrazione, a cui si possono iscrivere tutti coloro che sono interessati ad eseguire lavori, servizi o forniture in favore di quelle PA specifica",
+      "b. … un elenco di lavori svolti",
+      "c. … un luogo fisico nella sede della Provincia sempre aperto al pubblico in cui viene affisso ogni tipologia di atto"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "L’amministrazione mi richiede di preparare la documentazione per l’avvio di una gara, quale delle seguenti opzioni è corretta?",
+    "options": [
+      "a. L'amministrazione richiede la preparazione della documentazione per l'avvio di una gara; pertanto, devo presentare i documenti in formato cartaceo",
+      "b. È necessario redigere solo una breve e generica descrizione dell'oggetto della gara senza specificare i requisiti tecnici",
+      "c. Potrebbe essere necessario allegare al bando di gara documenti amministrativi, finanziari o legali per fornire ulteriori dettagli o informazioni complementari"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "Cosa è una gara d’appalto?",
+    "options": [
+      "a. Competizione tra diversi artisti per ottenere l'opportunità di realizzare un murale o una scultura pubblica in una comunità",
+      "b. Procedimento competitivo attraverso il quale un’organizzazione, solitamente un ente pubblico o un’azienda, seleziona un fornitore per l’acquisizione di bene, servizi o lavori",
+      "c. Strumento con cui la pubblica amministrazione manifesta il proprio bisogno di acquisire solo lavori pubblici"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "Quali sono i principi secondo cui si svolge l’affidamento e l’esecuzione di appalti di opere, lavori, servizi, forniture e concessioni?",
+    "options": [
+      "a. Economicità, efficacia, tempestività e correttezza",
+      "b. Solo economicità e tempestività",
+      "c. Solo correttezza e efficacia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Che cos’è un affidamento diretto?",
+    "options": [
+      "a. Normativa che consente all’azienda di vendere il proprio prodotto in maniera indiscriminata",
+      "b. Normativa che non consente all’amministrazione pubblica di assegnare direttamente un appalto senza dover effettuare una gara",
+      "c. Procedura che consente all’amministrazione pubblica di assegnare direttamente un appalto senza dover effettuare una gara"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "In base al principio di \"equa retribuzione\", cosa integra il trattamento economico dei CCNL?",
+    "options": [
+      "a. Massimizzazione dei profitti aziendali",
+      "b. Proporzionamento tra retribuzione e benefit",
+      "c. Garanzia di salario minimo"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Quando è ammessa la modifica unilaterale delle mansioni da parte del datore di lavoro secondo l’articolo 2103 c.c.?",
+    "options": [
+      "a. In presenza di ragioni giustificative, come la modifica degli assetti organizzativi aziendali",
+      "b. In qualsiasi momento senza necessità di ragioni giustificative",
+      "c. Solo in caso di gravi crisi aziendali"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Devo predisporre un grafico partendo da alcuni dati in formato tabellare, quale strumento software potrei utilizzare per ottenere un risultato professionale?",
+    "options": [
+      "a. Microsoft Excel",
+      "b. GIMP",
+      "c. Microsoft Word"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Cos’è un gruppo?",
+    "options": [
+      "a. Un gruppo è un insieme di individui che interagiscono tra loro, condividendo interessi, scopi o obbiettivi comuni e cooperando per raggiungere determinati risultati",
+      "b. Un gruppo è un insieme di individui che interagiscono tra loro, senza dover necessariamente condividere interessi, scopi o obbiettivi comuni ma cooperando per raggiungere determinati risultati",
+      "c. Un gruppo è un insieme di individui che interagiscono tra loro, condividendo interessi, scopi o obbiettivi comuni potendo raggiungere in autonomia determinati risultati"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "La Comunità Europea perché ha emanato la IV Direttiva?",
+    "options": [
+      "a. Armonizzare e rendere confrontabili i bilanci di tutte le società",
+      "b. Disciplinare le modalità di presentazione dei bilanci",
+      "c. Stabilire l’obbligo di redazione del rendiconto finanziario"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Quali sono i modelli di contabilità?",
+    "options": [
+      "a. Contabilità generale e contabilità analitica",
+      "b. Contabilità aziendale e contabilità extraziendale",
+      "c. Contabilità gestionale e contabilità dirigenziale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Il possesso di buona fede è?",
+    "options": [
+      "a. Il possesso di chi possiede ignorando di ledere l’altrui diritto",
+      "b. Il possesso spettante alle comunità religiose sui beni ecclesiastici",
+      "c. Il possesso della fede di deposito"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "Quale termine indica il processo attraverso il quale viene inviata una fattura elettronica al Sistema di Interscambio (SDI)?",
+    "options": [
+      "a. Identificativo",
+      "b. Protocollo",
+      "c. Fattura"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Cosa si intende con l’acronimo SDI?",
+    "options": [
+      "a. Soluzione di interessi",
+      "b. Sistema di interscambio",
+      "c. Scambio di informazioni"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Il contratto preliminare?",
+    "options": [
+      "a. Deve essere stipulato nella stessa forma prevista per il contratto definitivo",
+      "b. Deve essere stipulato in qualsiasi forma",
+      "c. Deve essere sempre stipulato in forma scritta a pena di nullità"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Cosa indica l’acronimo IRES?",
+    "options": [
+      "a. Imposta sui redditi delle società",
+      "b. Imposta regionale sulle attività produttive",
+      "c. Imposta reale dell’esercizio straordinario"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Devi organizzare una cartella di lavoro dove confluiranno i tuoi dati, quali caratteri non potrai usare per nominare la cartella?",
+    "options": [
+      "a. Non posso utilizzare i numeri romani",
+      "b. Devo utilizzare tutti i caratteri speciali, incluso il simbolo del dollaro ($) e il punto interrogativo (?), nel nome della cartella",
+      "c. Posso utilizzarli tutti tranne i seguenti caratteri speciali: ˆ ~ ” # % & * : < > ? / \\ { | }"
+    ],
+    "answer": "C"
+  }
+]

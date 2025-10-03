@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Cosa si intende per relatività del tempo?",
+    "options": [
+      "a. La relatività del tempo è un concetto della fisica, teorizzato da Albert Einstein, che spiega come non esista un unico tempo assoluto, ma ogni singolo individuo ha una propria misura personale del tempo, che dipende da dove si trova e da come si sta muovendo. Ciò significa che esiste soltanto un tempo relativo rispetto ad un osservatore",
+      "b. La relatività del tempo è un concetto dell’astrofisica che si riferisce alla percezione oggettiva del tempo. Ciò significa che, secondo Einstein, il tempo scorre uguale per tutti senza alcun elemento di soggettività",
+      "c. La relatività del tempo è un concetto legato alla scienza che afferma che il tempo influisce sul destino individuale delle persone"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Su quale modello organizzativo si basano i processi aziendali secondo la normativa Uni en Iso?",
+    "options": [
+      "a. Spirale",
+      "b. Cascata",
+      "c. PDCA (Plan-Do-Check-Act)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 3,
+    "question": "Che cosa indica la sigla ODS?",
+    "options": [
+      "a. Un modello di documento per la compilazione di Ordini di Servizio",
+      "b. Un software per la compilazione di documenti",
+      "c. Un software per la protezione dei documenti"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "Cosa sono le linee etiche aziendali?",
+    "options": [
+      "a. Un tipo di grafico che mostra le tendenze di vendita dell’azienda",
+      "b. Principi e valori che guidano il comportamento etico dei membri dell’azienda",
+      "c. Un tipo di comunicazione interna aziendale tramite linee telefoniche"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Che cos’è la tecnica di scheduling \"Time Blocking\"?",
+    "options": [
+      "a. Un metodo di suddivisione del tempo in blocchi dedicati a specifiche attività",
+      "b. Una tecnica di ordinamento cronologico delle attività",
+      "c. Un sistema periodizzante basato sul valore delle attività"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "question": "I processi aziendali possono riguardare una vasta gamma di attività, tra cui…",
+    "options": [
+      "a. Collaborazione tra dipendenti appartenenti alla stessa funzione",
+      "b. Distribuzione delle risorse in modo casuale",
+      "c. Pianificazione della produzione, acquisto di materiali e gestione dell’inventario, produzione effettiva dei bene e qualità del controllo"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Cosa rappresenta un report/verbale in ambito aziendale?",
+    "options": [
+      "a. Prova scritta che riporta le informazioni chiave di una riunione o discussione",
+      "b. Illustrazione visiva di dati aziendali attraverso grafici, tabelle o diagrammi al fine di fornire una rappresentazione chiara",
+      "c. Una registrazione audio di una comunicazione aziendale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "In che modo la verbalizzazione può contribuire al processo di risoluzione dei problemi?",
+    "options": [
+      "a. Rallentando il processo decisionale",
+      "b. Parlando del problema con colleghi e/o esperti del settore, si possono ricevere nuove idee e suggerimenti per trovare soluzioni",
+      "c. Evitando completamente la comunicazione verbale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "Il segretario coordinatore amministrativo può contribuire a risolvere le criticità aziendali tramite:",
+    "options": [
+      "a. Lamentele ai colleghi",
+      "b. Monitoraggio delle comunicazioni e segnalazione di problemi",
+      "c. Licenziamento del personale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Cosa sono gli applicativi gestionali?",
+    "options": [
+      "a. Piattaforme progettate per integrare e gestire le principali funzioni aziendali in un’unica soluzione",
+      "b. Sistemi informatici che gestiscono solo la parte grafica di un’azienda",
+      "c. Applicazioni dedicate esclusivamente alla gestione delle risorse umane"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Che cos’è il Budget previsionale?",
+    "options": [
+      "a. Il Budget previsionale è uno strumento di pianificazione finanziaria che prevede e pianifica le entrate e le uscite future di un’azienda per un determinato periodo di tempo",
+      "b. Il Budget previsionale è uno strumento di rendicontazione finanziaria che misura e quantifica le entrate e le uscite di un’azienda per un determinato periodo di tempo",
+      "c. Il Budget previsionale è uno strumento di monitoraggio finanziario che valuta e organizza le entrate e le uscite di un’azienda per un determinato periodo di tempo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Quale delle seguenti affermazioni è corretta?",
+    "options": [
+      "a. L’affidamento diretto è possibile solo se l’importo dei lavori affidati è inferiore a 250.000 euro. In questo caso la stazione appaltante ha la possibilità di affidare direttamente i lavori, senza la necessità di consultare più operatori economici",
+      "b. Per affidare dei lavori è necessario rispettare i seguenti requisiti: importo dei lavori affidati inferiore a 150.000 euro. In questo caso la stazione appaltante ha la possibilità di affidare direttamente i lavori, senza la necessità di consultare più operatori economici",
+      "c. L’affidamento diretto dei lavori è necessario rispettare i seguenti requisiti: importo dei lavori affidati inferiore a 500.000 euro. In questo caso la stazione appaltante ha la possibilità di affidare direttamente i lavori, senza la necessità di consultare più operatori economici"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "La Richiesta di Offerta (RdO) su MEPA?",
+    "options": [
+      "a. È solo aperta",
+      "b. È solo ad invito",
+      "c. Può essere sia aperta che ad invito"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "La piattaforma aziendale richiede accesso tramite OTP al fine di accedere all’albo dei fornitori della banca dati, cosa si intende con questo termine?",
+    "options": [
+      "a. Impronta digitale",
+      "b. Password monouso variabile",
+      "c. Codice monouso non variabile"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "L’amministrazione mi richiede di preparare la documentazione per l’avvio di una gara, quale software potrei utilizzare nella procedura di sviluppo di una presentazione?",
+    "options": [
+      "a. Winzip",
+      "b. PowerPoint",
+      "c. Excel"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "L’albo pretorio…",
+    "options": [
+      "a. …non esiste più",
+      "b. …è un elenco di lavori svolti",
+      "c. …per decenni, è stato, un luogo fisico nella sede della Provincia sempre aperto al pubblico in cui veniva affisso ogni atto, documento o avviso che deve essere reso pubblico, cioè, diffuso, portato a conoscenza di tutti i cittadini. Adesso è presente sui siti di ciascuna amministrazione"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Quali sono i criteri di aggiudicazione che la Pubblica Amministrazione può utilizzare per individuare l’offerta aggiudicataria?",
+    "options": [
+      "a. Non ci sono criteri di aggiudicazione",
+      "b. Sempre e solo il criterio di qualità",
+      "c. Prezzo più basso ovvero il criterio della offerta economicamente più vantaggiosa"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Quale ente si occupa di determinare le linee guida per le procedure negoziate?",
+    "options": [
+      "a. Anac",
+      "b. Consip",
+      "c. Mepa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Quale software è spesso usato per la preparazione del budget?",
+    "options": [
+      "a. Photoshop",
+      "b. Excel",
+      "c. Word"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Cosa rappresenta l’UniEmens?",
+    "options": [
+      "a. Rivista mensile sull’INPS",
+      "b. Piattaforma online che fornisce servizi per la gestione delle comunicazioni obbligatorie tra i datori di lavoro e gli enti previdenziali e fiscali in Italia",
+      "c. Denuncia obbligatoria inviata dai lavoratori"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Quale aspetto devo controllare per garantire la disponibilità e la consistenza dei dati?",
+    "options": [
+      "a. Effettuare copie di sicurezza dei dati secondo la strategia di backup pianificata",
+      "b. Effettuare copie di sicurezza dei dati quando possibile",
+      "c. Effettuare copie di sicurezza dei dati ad ogni modifica"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Quali sono le due dimensioni del gruppo?",
+    "options": [
+      "a. Orizzontale e Verticale",
+      "b. Interna ed Esterna",
+      "c. Processo e Contenuto"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "question": "Il report gestionale è utile principalmente per:",
+    "options": [
+      "a. Definire l’identità aziendale",
+      "b. Controllare la produttività e i risultati rispetto agli obiettivi",
+      "c. Semplificare la gestione delle ferie"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "Qual è il metodo per la tenuta della contabilità generale?",
+    "options": [
+      "a. Costi e ricavi",
+      "b. Partita doppia",
+      "c. Entrate ed uscite"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Il diritto di proprietà assicura al titolare:",
+    "options": [
+      "a. Controllo non soggetto, in alcun modo, a limitazioni",
+      "b. Soltanto il potere di godere le cose",
+      "c. Potere di godere e di disporre delle cose in modo pieno ed esclusivo entro i limiti e con l’osservanza degli obblighi stabiliti dall’ordinamento giuridico"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Qual è la formula per calcolare il \"patrimonio netto\" in un bilancio consolidato?",
+    "options": [
+      "a. Si ottiene dalla differenza tra attività e passività",
+      "b. Si ottiene dalla somma tra attività e passività",
+      "c. Si ottiene dalla divisione tra entrate e uscite"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Quale principio contabile è alla base delle scritture di assestamento?",
+    "options": [
+      "a. Solo il principio di completezza può essere considerato alla base delle scritture di assestamento",
+      "b. Principio di competenza economica e principio di prudenza",
+      "c. Non esistono dei principi ma solo linee guida che permettono di mantenere integrità e affidabilità delle informazioni contabili"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Dove si movimentano i ricavi?",
+    "options": [
+      "a. In «avere»",
+      "b. In «dare»",
+      "c. Sia in «dare» che in «avere»"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Cosa si intende per mercato elettronico nel contesto della conformità alle normative sulla fatturazione elettronica?",
+    "options": [
+      "a. Si tratta di un mercato interamente virtuale in cui le Amministrazioni abilitate e le imprese fornitrici di beni e servizi si incontrano, negoziano e perfezionano on line contratti di acquisto legalmente validi, mediante la firma digitale",
+      "b. Si tratta di un mercato interamente virtuale in cui le Amministrazioni abilitate e le imprese fornitrici di beni e servizi si incontrano, negoziano e perfezionano on line contratti di acquisto legalmente validi, senza la firma digitale",
+      "c. Si tratta di un mercato bene elettronici"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Evitare file con stessi nomi…",
+    "options": [
+      "a. …aumenta la possibilità di fare più copie dello stesso file",
+      "b. …non permette di organizzare il risparmio dello spazio di archiviazione",
+      "c. …permette di organizzare e gestire i documenti in modo più efficiente"
+    ],
+    "answer": "C"
+  }
+]

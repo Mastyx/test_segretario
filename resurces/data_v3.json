@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Cos'è il Time Management?",
+    "options": [
+      "a. Attività con cui un individuo o un'organizzazione amministrano e coordinano l'operato di un gruppo di individui, allo scopo di svolgere determinati compiti e raggiungere degli obbiettivi prefissati.",
+      "b .Segnale di sincronizzazione delle attività lavorative.",
+      "c .Processo di pianificazione e controllo del tempo che permette di ottimizzare la produttività, l'efficienza e l'efficacia dei processi operativi tramite l'utilizzo di tecniche, strumenti e metodi di gestione del tempo"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Cosa si intende per Mansionario?",
+    "options": [
+      "a. Un elenco formale che descrive in modo dettagliato le varie mansioni, i compiti, le responsabilità e le competenze richieste per ciascuna posizione o ruolo",
+      "b. Un insieme di regole che stabiliscono in modo generico le varie mansioni, i compensi, le disponibilità e le competenze richieste per ciascuna posizione o ruolo",
+      "c .Un insieme di principi informali che descrivono in modo dettagliato le varie mansioni, i compiti, le responsabilità e le competenze richieste per ciascuna posizione o ruolo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Quale aspetto devo controllare per garantire la disponibilità e la consistenza dei dati?",
+    "options": [
+      "a. Effettuare copie di sicurezza dei dati secondo la strategia di backup pianificata",
+      "b. Effettuare copie di sicurezza dei dati solo se è possibile",
+      "c. Effettuare copie di sicurezza dei dati ogni 15 minuti"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 4,
+    "question": "La piattaforma aziendale richiede accesso tramite OTP, cosa si intende con questo termine?",
+    "options": [
+      "a. Username e Password",
+      "b. Scansione del volto",
+      "c. Password monouso variabile"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Quale tra queste è la definizione corretta di vision?",
+    "options": [
+      "a. È lo scopo di un'organizzazione, la giustificazione stessa della sua esistenza e, al tempo stesso, ciò che la dovrebbe contraddistinguere da tutte le altre. Risponde alla domanda CHI SIAMO?",
+      "b. Proietta lo scenario immaginato dalla leadership nel futuro. Risponde alla domanda COSA FAREMO?",
+      "c. È l'insieme degli ideali in cui si crede e le fondamenta su cui si basa l'esistenza stessa dell'organizzazione. Risponde alla domanda PERCHÉ LO FACCIAMO COSÌ?"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Cosa si intende per saper essere?",
+    "options": [
+      "a. È l'insieme dei comportamenti interpersonali",
+      "b. È l'insieme delle conoscenze riguardanti fatti specifici, procedure, concetti e procedure generali",
+      "c. È l'insieme delle capacità operative, manuali e intellettuali di un individuo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Per un'organizzazione, l'adozione di un sistema di gestione per la qualità…",
+    "options": [
+      "a. È una decisione che può aiutare a migliorare la sua prestazione complessiva e costruire una solida base per esperienze di sviluppo sostenibile",
+      "b. È una decisione che non aiuta a migliorare la sua prestazione complessiva e costruire una solida base per esperienze di sviluppo sostenibile",
+      "c. È una decisione che può aiutare a modificare la sua prestazione complessiva e costruire una base per esperienze di sviluppo insostenibile"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "Quale formato di file è comunemente associato a documenti non editabili?",
+    "options": [
+      "a. DOCX",
+      "b. TXT",
+      "c. PDF"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Quali sono i tre livelli della comunicazione?",
+    "options": [
+      "a. Verbale, Non verbale e Paraverbale",
+      "b. Conscio, inconscio, preconscio",
+      "c. Spaziale, prossemico, relativo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Cos'è la firma digitale?",
+    "options": [
+      "a. La firma elettronica qualificata (FEQ) - o digitale - è il risultato di una procedura informatica, detta validazione, che garantisce l'autenticità, l'integrità e il non ripudio dei documenti informatici",
+      "b. È una modalità di firma che si realizza attraverso il pacchetto office",
+      "c. Non garantisce l'autenticità e l'integrità"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "L'amministrazione mi richiede di preparare la documentazione per l'avvio di una gara, quale software potrei utilizzare nella procedura di creazione di un archivio?",
+    "options": [
+      "a. Winzip",
+      "b. Microsoft Excel",
+      "c. Microsoft PowerPoint"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Qual è la differenza tra procedure aperte e procedure ristrette?",
+    "options": [
+      "a. Nelle procedure aperte tutti gli operatori economici possono partecipare alla gara, mentre in quelle ristrette la procedura di aggiudicazione si svolge tra operatori economici che sono già stati selezionati e invitati dall'Amministrazione aggiudicatrice",
+      "b. Non c'è nessuna differenza",
+      "c. Nelle procedure aperte solo alcuni operatori economici possono partecipare alla gara, mentre in quelle ristrette la procedura di aggiudicazione si svolge tra tutti gli operatori"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Qual è la differenza tra l'attivo e il passivo di un'azienda?",
+    "options": [
+      "a. Ricavo",
+      "b. Patrimonio netto",
+      "c. Spesa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Quale tra le seguenti è una procedura in cui le stazioni appaltanti consultano gli operatori economici da loro scelti e negoziano con uno o più di essi le condizioni dell'appalto?",
+    "options": [
+      "a. Procedure negoziate",
+      "b. Procedure aperte",
+      "c. Procedure chiuse"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Cosa si intende con l'acronimo \"ANAC\"?",
+    "options": [
+      "a. Con l'acronimo \"ANAC\", si intende un ente che si occupa di analizzare le tendenze del mercato azionario",
+      "b. Per ANAC, si intende un'agenzia pubblica italiana responsabile della prevenzione e della lotta alla corruzione nel settore pubblico",
+      "c. L'Autorità Regionale per la Garanzia e la promozione della Partecipazione elettorale in Italia"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Chi attiva il soccorso istruttorio?",
+    "options": [
+      "a. La stazione appaltante",
+      "b. La ditta appaltata",
+      "c. L'ANAC"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Nelle procedure aperte…",
+    "options": [
+      "a. …non tutti gli operatori possono presentare un'offerta in risposta a un avviso di indizione di gara",
+      "b. ...solo alcuni operatori possono presentare un'offerta in risposta a un avviso di indizione di gara",
+      "c. …può presentare un'offerta in risposta a un avviso di indizione di gara qualsiasi operatore economico interessato"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Quando è obbligatorio utilizzare il MePA?",
+    "options": [
+      "a. È obbligatorio il ricorso al MEPA (o ad altri mercati elettronici) nel caso di affidamenti di importo pari o superiore a € 5.000",
+      "b. È obbligatorio il ricorso al MEPA (o ad altri mercati elettronici) nel caso di affidamenti di importo pari o superiore a € 50.000",
+      "c. È obbligatorio il ricorso al MEPA (o ad altri mercati elettronici) nel caso di affidamenti di importo pari o superiore a € 15.000"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Quale tra i seguenti è un obiettivo del budgeting?",
+    "options": [
+      "a. Aumentare il debito aziendale",
+      "b. Prevedere e controllare le risorse aziendali",
+      "c. Gestire solo la contabilità fiscale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Il segretario coordinatore amministrativo supporta il budgeting:",
+    "options": [
+      "a. Gestendo gli investimenti",
+      "b. Coordinando le previsioni dai reparti e l'archiviazione documentale",
+      "c. Stilando il bilancio finale"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "question": "Come posso realizzare un report grafico partendo da una tabella in Microsoft Excel?",
+    "options": [
+      "a. Con la funzionalità \"inserisci grafico\" di Microsoft Excel",
+      "b. Con la funzionalità \"inserisci funzione\" di Microsoft Excel",
+      "c. Con la funzionalità \"recupera dati\" di Microsoft Excel"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Qual è la logica vincente nella gestione di un gruppo?",
+    "options": [
+      "a. Apatia, promuove l'inerzia e la mancanza di coinvolgimento da parte dei membri del gruppo",
+      "b. Partecipazione, coinvolge e motiva i membri del team, favorisce la comunicazione e stimola la collaborazione",
+      "c. Meticolosità, concentrarsi esclusivamente sull'ottenimento di risultati perfetti, ignorando il processo di collaborazione e apprendimento del gruppo"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Qual è la differenza tra \"capacità di agire\" e \"capacità di intendere e di volere\" in diritto civile?",
+    "options": [
+      "a. La capacità di agire riguarda la possibilità di compiere atti giuridici, mentre la capacità di intendere e di volere si riferisce alla capacità mentale di comprendere e volere gli atti",
+      "b. Sono concetti equivalenti",
+      "c. La capacità di intendere e di volere riguarda la possibilità di compiere atti giuridici, mentre la capacità di agire si riferisce alla capacità fisica di agire"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "question": "Il metodo della partita doppia cosa prevede?",
+    "options": [
+      "a. Non prevede la registrazione degli eventi aziendali nei conti uni fase",
+      "b. Solo la registrazione degli eventi aziendali in report a due pagine",
+      "c. Prevede la registrazione degli eventi aziendali in due sezioni (dare ed avere)"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 25,
+    "question": "Cos'è un report aziendale?",
+    "options": [
+      "a. Un documento contabile da allegare al bilancio",
+      "b. Un documento giuridico per scopi fiscali",
+      "c. Un documento che presenta dati, analisi e informazioni a supporto delle decisioni aziendali"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Il regime forfettario da chi può essere adottato?",
+    "options": [
+      "a. Tutti",
+      "b. Persone fisiche",
+      "c. Società di capitali"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "In quali delle seguenti circostanze indicate si può fare affidamento diretto?",
+    "options": [
+      "a. Essendo una pratica importante, è necessario utilizzare sempre l'affidamento diretto in azienda",
+      "b. Dopo un'adeguata valutazione delle spese generali, se è necessario tenere traccia delle movimentazioni di conto corrente",
+      "c. Per piccoli importi o per servizi altamente specializzati può essere considerato appropriato fare affidamento diretto"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Qual è il termine per il deposito del bilancio?",
+    "options": [
+      "a. Entro 30 giorni dall'approvazione",
+      "b. Entro il 31/12 di ogni anno",
+      "c. Entro 120 giorni dalla chiusura dell'esercizio sociale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "L'indice di liquidità, anche definito ''Quick ratio'' cosa confronta?",
+    "options": [
+      "a. Liquidità immediate, liquidità differite e debiti a breve termine",
+      "b. Immobilizzazioni e debiti a lungo termine",
+      "c. Ricavi delle vendite e patrimonio netto aziendale"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 30,
+    "question": "Qual è uno degli elementi principali considerati nella prossemica?",
+    "options": [
+      "a. Individuo",
+      "b. Colore",
+      "c. Posizione"
+    ],
+    "answer": "C"
+  }
+]
