@@ -1,3 +1,5 @@
 # test_segretario
-Esercitazioni sul test di prova da segretario 
+
+Esercitazione dimostrativa sull'utilizzo di html, css e javascript 
+per simulare un app di esercitazione su test generici .
 
